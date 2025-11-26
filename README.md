@@ -36,4 +36,12 @@ The main() method acts as the driver function and executes all file operations i
 *Conclusion
 This File Handling Utility Program provides a complete demonstration of file operations in Java. It highlights the use of both traditional I/O (FileReader, FileWriter) and modern NIO (Files, Paths) techniques. The program is practical, easy to understand, and useful for academic learning, especially for understanding how real applications store, update, and manage data.
 
-This File Handling Utility Program provides a complete demonstration of file operations in Java. It highlights the use of both traditional I/O (FileReader, FileWriter) and modern NIO (Files, Paths) techniques. The program is practical, easy to understand, and useful for academic learning, especially for understanding how real applications store, update, and manage data.
+This File Handling Utility Program provides a complete demonstration of file operations in Java. It highlights the use of both traditional I/O (FileReader, FileWriter) and modern NIO (Files, Paths) techniques. 
+
+*OUTPUT:
+<img width="764" height="278" alt="Image" src="https://github.com/user-attachments/assets/5c098e7f-10be-4be1-a9ae-851952d3246f" />
+
+
+
+
+The program is practical, easy to understand, and useful for academic learning, especially for understanding how real applications store, update, and manage data.
