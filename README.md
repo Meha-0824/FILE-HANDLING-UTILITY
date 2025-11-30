@@ -12,7 +12,7 @@
 
 *MENTOR*:NEELA SANTHOSH
 
-##DESCRIPTION:
+#DESCRIPTION:
 The File Handling Utility Program in Java demonstrates how to perform fundamental operations on text files such as writing, reading, appending, and modifying data. File handling is a crucial aspect of software development because it enables long-term storage and retrieval of information. This program effectively showcases how Java uses classes from the java.io and java.nio.file packages to work with files in an efficient and structured manner.
 
 * Importing Required Packages
@@ -35,7 +35,6 @@ The main() method acts as the driver function and executes all file operations i
 
 *Conclusion
 This File Handling Utility Program provides a complete demonstration of file operations in Java. It highlights the use of both traditional I/O (FileReader, FileWriter) and modern NIO (Files, Paths) techniques. The program is practical, easy to understand, and useful for academic learning, especially for understanding how real applications store, update, and manage data.
-
 This File Handling Utility Program provides a complete demonstration of file operations in Java. It highlights the use of both traditional I/O (FileReader, FileWriter) and modern NIO (Files, Paths) techniques. 
 
 *OUTPUT:
